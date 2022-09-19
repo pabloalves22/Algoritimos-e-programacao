@@ -23,7 +23,7 @@ int main(){
     printf(" O total de minutos e %d\n", minuto);       //Impressão do resultado
     printf(" O total de segundos e %d\n", segundos);    //Impressão do resultado
 
-
+//teste
    system("pause");                                     //Função para o programa aguardar um comando para encerrar
 }// fim 
 
